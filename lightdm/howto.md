@@ -1,6 +1,8 @@
 ## path to config file
 /etc/lightdm/lightdm-gtk-greeter.conf
 
+position= 8% 42%
+
 ## background image path
 /usr/share/pixmaps/background.png
 
